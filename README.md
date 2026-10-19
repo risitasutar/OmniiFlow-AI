@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ OmniFlow AI
+# 🚀 OmniFlow AI
 
 ### One AI. Every Task. Seamless Execution.
 
