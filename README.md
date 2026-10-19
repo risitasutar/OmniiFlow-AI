@@ -337,6 +337,5 @@ $env:OMNIFLOW_RUN_LIVE_TESTS = "1"; .\.venv\Scripts\python.exe -m pytest -m live
 
 <div align="center">
 
-Built on the [CampusX LangGraph chatbot tutorial](https://github.com/campusx-official/chatbot-in-langgraph) · Version **0.6.0**
 
 </div>
